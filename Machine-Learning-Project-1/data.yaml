@@ -1,0 +1,17 @@
+names:
+- Chicken
+- Egg
+- Fish
+- Plate
+- Rice
+- Vegetables
+nc: 6
+roboflow:
+  license: CC BY 4.0
+  project: machine-learning-project-kfkz7
+  url: https://universe.roboflow.com/xinghao2003/machine-learning-project-kfkz7/dataset/1
+  version: 1
+  workspace: xinghao2003
+test: ../test/images
+train: ../train/images
+val: ../valid/images
